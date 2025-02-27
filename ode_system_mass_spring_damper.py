@@ -1,4 +1,4 @@
-# Modeling a mass-spring_damper system and solving the system of ordinary differential equations
+# Modeling a mass spring damper system and solving the system of ordinary differential equations
 # Plotting displacement and velocity over time
 import numpy as np
 from scipy.integrate import odeint
